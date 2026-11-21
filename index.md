@@ -17,8 +17,6 @@ Problem: Which problem state recurs most often, and which applications does it a
   
 Solution: Installation, updating, or removal problems recurs most, appearing in six of the ten topics -- see TAB1. These six topics involve Python 3.11, a Firefox add-on for VLC, Zoom, OpenShot, KWin, DaVinci Resolve -- see DIA1.  
   
-Manjaro forum users raised ten Third-Party Software topics across four problem states -- see TAB1. Installation, updating, or removal problems appear in six topics, the largest category. Loading and startup problems appear in two topics, and both involve AppImages. Connectivity/communication and access/modification appear in one topic each.  
-  
 | topic  | replies | views | tags  | Named Entity 1  | Named Entity 2  | Problem  |  
 |----------------------------------------------------------------------------------|---------|-------|--------|-----------------|------------------|--------------------------------|  
 | AppImage load error (Shotcut)  | 38  | 640  |  | AppImage  | Shotcut  | Loading/startup  |  
